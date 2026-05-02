@@ -1,0 +1,23 @@
+body {
+     font-family: 'Courier New', Courier, monospace;
+    text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+background-color:rgb(14, 183, 255);
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+li
+{
+    margin: 0;
+  height: 20px; /* Высота всего экрана */
+  background: linear-gradient(45deg, #8ec5fc, #e0c3fc);
+}
+li:hover{
+    color: whitesmoke
+    }
+.img:hover{
+    border: ;
+}
